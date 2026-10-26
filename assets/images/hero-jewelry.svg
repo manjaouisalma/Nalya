@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="800" viewBox="0 0 700 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dfcdb4"/><stop offset="1" stop-color="#a99579"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4df9e"/><stop offset=".5" stop-color="#b28a43"/><stop offset="1" stop-color="#f7e5ad"/></linearGradient></defs>
+<rect width="700" height="800" fill="url(#bg)"/><circle cx="350" cy="365" r="245" fill="#f4eadc" opacity=".5"/><ellipse cx="355" cy="620" rx="190" ry="45" fill="#6c5941" opacity=".16"/>
+<g fill="none" stroke="url(#gold)" stroke-width="15"><ellipse cx="285" cy="355" rx="76" ry="112" transform="rotate(-20 285 355)"/><ellipse cx="405" cy="355" rx="76" ry="112" transform="rotate(20 405 355)"/><path d="M250 510 Q350 575 450 510" stroke-width="11"/><circle cx="350" cy="510" r="20" fill="#f5e6c2" stroke-width="6"/></g>
+<g fill="#fff6e5"><circle cx="285" cy="240" r="16"/><circle cx="405" cy="240" r="16"/><circle cx="350" cy="535" r="10"/></g>
+<text x="350" y="720" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#fffaf2">nalya.</text>
+</svg>
