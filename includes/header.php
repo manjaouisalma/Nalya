@@ -10,8 +10,8 @@ $notice = get_flash();
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?= e($pageTitle) ?></title>
   <meta name="description" content="Nalya, une sélection de bijoux fantaisie élégants.">
-  <link rel="stylesheet" href="/Nalya2/assets/css/style.css">
-  <script defer src="/Nalya2/assets/js/app.js"></script>
+  <link rel="stylesheet" href="/Nalya/assets/css/style.css">
+  <script defer src="/Nalya/assets/js/app.js"></script>
   
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
